@@ -2,8 +2,10 @@
 Support
 =======
 Join the [MET and PU Short Exercise channel](https://mattermost.web.cern.ch/cmsdaslpc2023/channels/shortexmetandpu)
+
 Scope of the Exercise
 ---------------------
+
    * Introduction to MET reconstruction and fundamental concepts
    * MET calibration and uncertainties
    * Identification of sources that can lead to artificial MET and MET filters
