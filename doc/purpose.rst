@@ -1,7 +1,7 @@
 
 Support
 =======
-Join the `MET and PU Short Exercise channel <https://mattermost.web.cern.ch/cmsdaslpc2023/channels/shortexmetandpu>_`
+Join the `MET and PU Short Exercise channel <https://mattermost.web.cern.ch/cmsdaslpc2023/channels/shortexmetandpu>`_
 
 Scope of the Exercise
 ---------------------
