@@ -33,7 +33,7 @@ void cmsdasmetplotsexercise2(TString part) {
   TFile *file;
 
   if (part == "step2a") {
-    file = TFile::Open("../outputs/cmsdas_met_exercise2.root", "READONLY");
+    file = TFile::Open("../outputs/cmsdas_met_exercise2_Summer20UL17.root", "READONLY");
     TString dir = "cmsdasmetexercise2";
     // TString dir = "metandpuanalstep2a";
     std::vector<TString> br;
@@ -58,7 +58,7 @@ void cmsdasmetplotsexercise2(TString part) {
   }
 
   if (part == "step2b") {
-    file = TFile::Open("../outputs/cmsdas_met_exercise2.root", "READONLY");
+    file = TFile::Open("../outputs/cmsdas_met_exercise2.root_Summer20UL17", "READONLY");
     TString dir = "cmsdasmetexercise2";
     // TString dir = "metandpuanalstep2a";
     std::vector<TString> br;
