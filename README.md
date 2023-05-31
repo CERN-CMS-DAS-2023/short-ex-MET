@@ -1,4 +1,3 @@
 # Documentation example
-Test
-We use this example in one [CodeRefinery](https://coderefinery.org/) lesson:
-- https://coderefinery.github.io/documentation/
+Official twiki page:
+https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideCMSDataAnalysisSchoolCERN2023MetAndPuExercise
