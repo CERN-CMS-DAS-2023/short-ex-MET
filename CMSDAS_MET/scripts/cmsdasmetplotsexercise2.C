@@ -70,7 +70,7 @@ void cmsdasmetplotsexercise2(TString part) {
     br.push_back("h_metjeruppt");
     br.push_back("h_metjerdnpt");
     std::vector<TString> leg;
-    leg.push_back("PFMET T1");
+    leg.push_back("PFMET T1+smear");
     leg.push_back("Unc-Up");
     leg.push_back("Unc-Down");
     leg.push_back("JES-Up");
