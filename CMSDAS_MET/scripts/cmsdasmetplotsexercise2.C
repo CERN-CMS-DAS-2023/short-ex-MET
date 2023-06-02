@@ -62,7 +62,7 @@ void cmsdasmetplotsexercise2(TString part) {
     TString dir = "cmsdasmetexercise2";
     // TString dir = "metandpuanalstep2a";
     std::vector<TString> br;
-    br.push_back("h_metpt");
+    br.push_back("h_metsmearpt");
     br.push_back("h_metuncuppt");
     br.push_back("h_metuncdnpt");
     br.push_back("h_metjesuppt");
